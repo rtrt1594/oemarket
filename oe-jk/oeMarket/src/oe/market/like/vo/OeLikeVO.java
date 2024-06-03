@@ -37,7 +37,7 @@ public class OeLikeVO {
 		public String getOnum() {
 			return onum;
 		}
-		public String getlikecnt() {
+		public String getLikecnt() {
 			return likecnt;
 		}
 		public String getInsertdate() {
